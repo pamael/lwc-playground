@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/pamael.lwc-l65hlgq8-fork-l65hoqds",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve gyLl0aqJeJpYmZnvz98L --open"
+  }
+}
